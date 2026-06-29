@@ -2,6 +2,8 @@
 
 Cette page GitHub complète le chapitre "Comprendre les bases des IA génératives et leurs enjeux pour l'enseignement et la recherche" rédigé pour le livre "L'IA et l'IA générative à l'université : Perspectives pluridisciplinaires et prospectives" publié aux Editions Management et Société en 2026, ISBN: 978-2-38630-348-7, disponible à l'achat [en ligne ici](https://editions-ems.fr/boutique/lia-et-lia-generative-a-luniversite/).
 
+Il a été réalisé dans la suite de la première édition du [workshop AI Usage and Regulation](https://sites.google.com/view/ai-usage-and-regulation/) ayant eu lieu à l'Université de Lausanne les 10 et 11 juin 2025.
+
 L'objectif de cette espace est fournir des ressources complémentaires, des exemples de code et des références pour approfondir les concepts abordés dans le chapitre.
 
 ## Contenu de ce dépôt
